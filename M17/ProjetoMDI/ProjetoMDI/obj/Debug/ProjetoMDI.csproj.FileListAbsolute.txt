@@ -1,0 +1,10 @@
+E:\Curso\PSI 12º\M17\ProjetoMDI\ProjetoMDI\bin\Debug\ProjetoMDI.exe.config
+E:\Curso\PSI 12º\M17\ProjetoMDI\ProjetoMDI\bin\Debug\ProjetoMDI.exe
+E:\Curso\PSI 12º\M17\ProjetoMDI\ProjetoMDI\bin\Debug\ProjetoMDI.pdb
+E:\Curso\PSI 12º\M17\ProjetoMDI\ProjetoMDI\obj\Debug\ProjetoMDI.csprojAssemblyReference.cache
+E:\Curso\PSI 12º\M17\ProjetoMDI\ProjetoMDI\obj\Debug\ProjetoMDI.FormPrincipal.resources
+E:\Curso\PSI 12º\M17\ProjetoMDI\ProjetoMDI\obj\Debug\ProjetoMDI.Properties.Resources.resources
+E:\Curso\PSI 12º\M17\ProjetoMDI\ProjetoMDI\obj\Debug\ProjetoMDI.csproj.GenerateResource.cache
+E:\Curso\PSI 12º\M17\ProjetoMDI\ProjetoMDI\obj\Debug\ProjetoMDI.csproj.CoreCompileInputs.cache
+E:\Curso\PSI 12º\M17\ProjetoMDI\ProjetoMDI\obj\Debug\ProjetoMDI.exe
+E:\Curso\PSI 12º\M17\ProjetoMDI\ProjetoMDI\obj\Debug\ProjetoMDI.pdb

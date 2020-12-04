@@ -1,0 +1,26 @@
+E:\Curso\PSI 12º\M17\Ex2 -- Storage Precedures\Ex2 -- Storage Precedures\bin\Debug\Ex2 -- Storage Precedures.exe.config
+E:\Curso\PSI 12º\M17\Ex2 -- Storage Precedures\Ex2 -- Storage Precedures\bin\Debug\Ex2 -- Storage Precedures.exe
+E:\Curso\PSI 12º\M17\Ex2 -- Storage Precedures\Ex2 -- Storage Precedures\bin\Debug\Ex2 -- Storage Precedures.pdb
+E:\Curso\PSI 12º\M17\Ex2 -- Storage Precedures\Ex2 -- Storage Precedures\bin\Debug\MySql.Data.dll
+E:\Curso\PSI 12º\M17\Ex2 -- Storage Precedures\Ex2 -- Storage Precedures\bin\Debug\Google.Protobuf.dll
+E:\Curso\PSI 12º\M17\Ex2 -- Storage Precedures\Ex2 -- Storage Precedures\bin\Debug\Zstandard.Net.dll
+E:\Curso\PSI 12º\M17\Ex2 -- Storage Precedures\Ex2 -- Storage Precedures\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Curso\PSI 12º\M17\Ex2 -- Storage Precedures\Ex2 -- Storage Precedures\bin\Debug\BouncyCastle.Crypto.dll
+E:\Curso\PSI 12º\M17\Ex2 -- Storage Precedures\Ex2 -- Storage Precedures\bin\Debug\Ubiety.Dns.Core.dll
+E:\Curso\PSI 12º\M17\Ex2 -- Storage Precedures\Ex2 -- Storage Precedures\bin\Debug\Renci.SshNet.dll
+E:\Curso\PSI 12º\M17\Ex2 -- Storage Precedures\Ex2 -- Storage Precedures\bin\Debug\System.Buffers.dll
+E:\Curso\PSI 12º\M17\Ex2 -- Storage Precedures\Ex2 -- Storage Precedures\bin\Debug\K4os.Compression.LZ4.dll
+E:\Curso\PSI 12º\M17\Ex2 -- Storage Precedures\Ex2 -- Storage Precedures\bin\Debug\K4os.Hash.xxHash.dll
+E:\Curso\PSI 12º\M17\Ex2 -- Storage Precedures\Ex2 -- Storage Precedures\bin\Debug\System.Memory.dll
+E:\Curso\PSI 12º\M17\Ex2 -- Storage Precedures\Ex2 -- Storage Precedures\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Curso\PSI 12º\M17\Ex2 -- Storage Precedures\Ex2 -- Storage Precedures\bin\Debug\MySql.Data.xml
+E:\Curso\PSI 12º\M17\Ex2 -- Storage Precedures\Ex2 -- Storage Precedures\obj\Debug\Ex2 -- Storage Precedures.csprojAssemblyReference.cache
+E:\Curso\PSI 12º\M17\Ex2 -- Storage Precedures\Ex2 -- Storage Precedures\obj\Debug\Ex2 -- Storage Precedures.exe.config
+E:\Curso\PSI 12º\M17\Ex2 -- Storage Precedures\Ex2 -- Storage Precedures\obj\Debug\Ex2____Storage_Precedures.Form1.resources
+E:\Curso\PSI 12º\M17\Ex2 -- Storage Precedures\Ex2 -- Storage Precedures\obj\Debug\Ex2____Storage_Precedures.PesquisaLivros.resources
+E:\Curso\PSI 12º\M17\Ex2 -- Storage Precedures\Ex2 -- Storage Precedures\obj\Debug\Ex2____Storage_Precedures.Properties.Resources.resources
+E:\Curso\PSI 12º\M17\Ex2 -- Storage Precedures\Ex2 -- Storage Precedures\obj\Debug\Ex2 -- Storage Precedures.csproj.GenerateResource.cache
+E:\Curso\PSI 12º\M17\Ex2 -- Storage Precedures\Ex2 -- Storage Precedures\obj\Debug\Ex2 -- Storage Precedures.csproj.CoreCompileInputs.cache
+E:\Curso\PSI 12º\M17\Ex2 -- Storage Precedures\Ex2 -- Storage Precedures\obj\Debug\Ex2 -- Storage Precedures.csproj.CopyComplete
+E:\Curso\PSI 12º\M17\Ex2 -- Storage Precedures\Ex2 -- Storage Precedures\obj\Debug\Ex2 -- Storage Precedures.exe
+E:\Curso\PSI 12º\M17\Ex2 -- Storage Precedures\Ex2 -- Storage Precedures\obj\Debug\Ex2 -- Storage Precedures.pdb
