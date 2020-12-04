@@ -1,0 +1,10 @@
+E:\Curso\PSI 12º\M17\MDI2\MDI2\bin\Debug\MDI2.exe.config
+E:\Curso\PSI 12º\M17\MDI2\MDI2\bin\Debug\MDI2.exe
+E:\Curso\PSI 12º\M17\MDI2\MDI2\bin\Debug\MDI2.pdb
+E:\Curso\PSI 12º\M17\MDI2\MDI2\obj\Debug\MDI2.csprojAssemblyReference.cache
+E:\Curso\PSI 12º\M17\MDI2\MDI2\obj\Debug\MDI2.Form1.resources
+E:\Curso\PSI 12º\M17\MDI2\MDI2\obj\Debug\MDI2.Properties.Resources.resources
+E:\Curso\PSI 12º\M17\MDI2\MDI2\obj\Debug\MDI2.csproj.GenerateResource.cache
+E:\Curso\PSI 12º\M17\MDI2\MDI2\obj\Debug\MDI2.csproj.CoreCompileInputs.cache
+E:\Curso\PSI 12º\M17\MDI2\MDI2\obj\Debug\MDI2.exe
+E:\Curso\PSI 12º\M17\MDI2\MDI2\obj\Debug\MDI2.pdb
