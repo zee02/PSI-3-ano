@@ -16,10 +16,12 @@ namespace WebMVC.Models
         public DateTime DataNasc { get; set; }
         public int AnoEscolaridade { get; set; }
         public string ImgPath { get; set; }
+
+        public HttpPostedFileBase imagem { get; set; }
     }
 
-    public class Genero
+    public enum Genero
     {
-
+        Masculino, Feminino
     }
 }
